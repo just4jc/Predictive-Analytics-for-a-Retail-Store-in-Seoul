@@ -234,5 +234,10 @@ def plottingfeatureimoprtance(data, clf):
 
 plottingfeatureimoprtance(x_storeA_data, regressorA)
 
+plottingfeatureimoprtance(x_storeB_data, regressorB)
+plottingfeatureimoprtance(x_storeC_data, regressorC)
+plottingfeatureimoprtance(x_storeD_data, regressorD)
+plottingfeatureimoprtance(x_storeE_data, regressorE)
+
 
 
